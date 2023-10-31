@@ -1,0 +1,57 @@
+capital = 596
+
+oob = "WUU_1936"
+
+595 = {
+    add_dynamic_modifier = { modifier = dense_rural_infrastructure}
+}
+596 = {
+    add_dynamic_modifier = { modifier = dense_rural_infrastructure}
+}
+600 = {
+    add_dynamic_modifier = { modifier = dense_rural_infrastructure}
+}
+602 = {
+    add_dynamic_modifier = { modifier = dense_rural_infrastructure}
+}
+603 = {
+    add_dynamic_modifier = { modifier = dense_rural_infrastructure}
+}
+606 = {
+    add_dynamic_modifier = { modifier = dense_rural_infrastructure}
+}
+613 = {
+    add_dynamic_modifier = { modifier = dense_rural_infrastructure}
+}
+620 = {
+    add_dynamic_modifier = { modifier = dense_rural_infrastructure}
+}
+748 = {
+    add_dynamic_modifier = { modifier = dense_rural_infrastructure}
+}
+749 = {
+    add_dynamic_modifier = { modifier = dense_rural_infrastructure}
+}
+750 = {
+    add_dynamic_modifier = { modifier = dense_rural_infrastructure}
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	neutrality = 100
+}
+
+create_country_leader = {
+    name = "Sonquan"
+    desc = ""
+    picture = "Sonquan.dds"
+    ideology = despotism
+    traits = {
+
+    }
+}
